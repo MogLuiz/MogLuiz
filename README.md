@@ -13,3 +13,11 @@
   <img align="center" alt="Luiz-facebook" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
   style="max-width:100%;">
 </a>
+<a href="https://www.instagram.com/luiz_jramos/?hl=pt-br" target="_blank">
+  <img align="center" alt="Luiz-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+  style="max-width:100%;">
+</a>
+<a href="https://www.youtube.com/channel/UC5sWX3akp_nnzNYaN4p7k7g" target="_blank">
+  <img align="center" alt="Luiz-youtube" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"
+  style="max-width:100%;">
+</a>
