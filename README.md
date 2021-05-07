@@ -14,7 +14,7 @@
   style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/luiz_jramos/?hl=pt-br" target="_blank">
-  <img align="center" alt="Luiz-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+  <img align="center" alt="Luiz-instagram" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1620398358~hmac=9d622ff5ada96055cb0327963d200c66"
   style="max-width:100%;">
 </a>
 <a href="https://www.youtube.com/channel/UC5sWX3akp_nnzNYaN4p7k7g" target="_blank">
