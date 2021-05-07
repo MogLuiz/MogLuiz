@@ -6,7 +6,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/luiz-henrique-9a41091b0/" target="_blank">
-  <img align="center" alt="Luiz-linkedln" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css"
+  <img align="center" alt="Luiz-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
   style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100003399888028" target="_blank">
