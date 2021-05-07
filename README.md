@@ -35,4 +35,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
 
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MogLuiz&layout=compact)](https://github.com/MogLuiz/github-readme-stats)
