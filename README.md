@@ -21,3 +21,6 @@
   <img align="center" alt="Luiz-youtube" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/168/168936.svg?token=exp=1620399096~hmac=84ff5626a1038aaf74503acfc301b7ea"
   style="max-width:100%;">
 </a>
+
+## My Skills
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" style="max-width:100%;"></img>
