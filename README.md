@@ -10,7 +10,7 @@
   style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100003399888028" target="_blank">
-  <img align="center" alt="Luiz-facebook" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
+  <img align="center" alt="Luiz-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
   style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/luiz_jramos/?hl=pt-br" target="_blank">
