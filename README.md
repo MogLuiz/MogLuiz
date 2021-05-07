@@ -18,6 +18,6 @@
   style="max-width:100%;">
 </a>
 <a href="https://www.youtube.com/channel/UC5sWX3akp_nnzNYaN4p7k7g" target="_blank">
-  <img align="center" alt="Luiz-youtube" height="45" width="33" src="https://www.flaticon.com/svg/vstatic/svg/174/174883.svg?token=exp=1620398508~hmac=67d4a4bf452815750bf719e97d3e4c98"
+  <img align="center" alt="Luiz-youtube" height="45" width="39" src="https://www.flaticon.com/svg/vstatic/svg/174/174883.svg?token=exp=1620398508~hmac=67d4a4bf452815750bf719e97d3e4c98"
   style="max-width:100%;">
 </a>
