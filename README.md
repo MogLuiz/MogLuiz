@@ -24,5 +24,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MogLuiz&layout=compact&theme=nightowl)](https://github.com/MogLuiz/github-readme-stats)
+
+## interactions
+
+<div width="100%">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MogLuiz&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MogLuiz&count_private=true&theme=midnight-purple&hide_border=true" width="49.75%"/>
+</div>
+
