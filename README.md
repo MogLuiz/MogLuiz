@@ -4,6 +4,10 @@
 - I am a student of Software Engineering at the Pontifical Catholic University of Minas Gerais 🧑‍💻
 - Focused on JavaScript, ReactJS and nodeJS studies 💻
 
+## Articles
+
+- [useCallback e useMemo quando usar](https://www.linkedin.com/pulse/usecallback-e-usememo-quando-usar-luiz-henrique)
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/luiz-henrique-9a41091b0/" target="_blank">
   <img align="center" alt="Luiz-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
