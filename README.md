@@ -6,7 +6,7 @@
 
 ## Articles
 
-- [useCallback e useMemo quando usar](https://www.linkedin.com/pulse/usecallback-e-usememo-quando-usar-luiz-henrique)
+ <a target="_blank" href="https://www.linkedin.com/pulse/usecallback-e-usememo-quando-usar-luiz-henrique/?trackingId=CzQLCfLQSeOEIWi9SHxdww%3D%3D"><img src="https://user-images.githubusercontent.com/58401291/138565714-d56f4133-f0e4-4054-8ee9-10b0494e45aa.png" width="800" height="200" alt="Recent Article 0"> 
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/luiz-henrique-9a41091b0/" target="_blank">
