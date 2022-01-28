@@ -2,6 +2,7 @@
 ## I'm Luiz Henrique
 - I Live in 🇧🇷 , Belo Horizonte.
 - I am a student of Software Engineering at the Pontifical Catholic University of Minas Gerais 🧑‍💻
+- currently I work as a frontend react developer
 - Focused on JavaScript, ReactJS and nodeJS studies 💻
 
 ## Articles
