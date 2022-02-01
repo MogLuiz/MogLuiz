@@ -5,10 +5,6 @@
  Hello, my name is Luiz Henrique i'm 21 years old. I'm a Software Engineering student at Puc Minas and i work as a React developer analyst.
 </p>
 
-## Articles
-
- <a target="_blank" href="https://www.linkedin.com/pulse/usecallback-e-usememo-quando-usar-luiz-henrique/?trackingId=CzQLCfLQSeOEIWi9SHxdww%3D%3D"><img src="https://user-images.githubusercontent.com/58401291/138565714-d56f4133-f0e4-4054-8ee9-10b0494e45aa.png" width="800" height="200" alt="Recent Article 0"> 
-
 ## Connect with me:
 <a href="https://www.linkedin.com/in/luiz-henrique-9a41091b0/" target="_blank">
   <img align="center" alt="Luiz-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
