@@ -7,13 +7,13 @@
 <br/>
 
 <p align="left"> 
- Hi there, my name's Luiz Henrique i'm 21 years old. I'm a Software Engineering student at Puc Minas and i work as a React developer analyst.
+ 🖖 Hi there, my name's <strong>Luiz Henrique i'm 21 years old</strong>. I'm a <strong>Software Engineering student</strong> at Puc Minas and i work as a <strong>React developer analyst.</strong>
 </p>
 
 <br/>
 
 <p align="left">
-  🦄 Languages and Tools: <strong></strong><br/><br/>
+  💼 Tools: <strong></strong><br/><br/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -45,8 +45,8 @@
 
 <p align="center">
   <a href="mailto:luizhjramos@outlook.com">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&luizhjramos@outlook.com"/></a>
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
   <a href="https://www.linkedin.com/in/luiz-henrique-9a41091b0/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-henrique-9a41091b0/" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>  
