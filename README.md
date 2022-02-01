@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p align="center"><img src="https://user-images.githubusercontent.com/58401291/151966385-43eb3203-be8f-4192-b4e7-20b01a64b345.gif" alt="monkey codding" /></p>
+<br/>
 ## I'm Luiz Henrique
 - I Live in 🇧🇷 , Belo Horizonte.
 - I am a student of Software Engineering at the Pontifical Catholic University of Minas Gerais 🧑‍💻
