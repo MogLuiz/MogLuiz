@@ -1,7 +1,3 @@
-<h4 align="center">Visitor's count ‎️‍🔥</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{MogLuiz}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
-
-<br/>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/58401291/151966385-43eb3203-be8f-4192-b4e7-20b01a64b345.gif" alt="monkey codding" /></p>
 <br/>
