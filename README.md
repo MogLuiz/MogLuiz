@@ -30,9 +30,10 @@
 
 <div>
    <h3 align="center">Last Articles</h3>
-
-   1. [Simplificando Aplicações React com Combine Context Provider Pattern](https://www.linkedin.com/pulse/simplificando-aplica%25C3%25A7%25C3%25B5es-react-com-combine-context-pattern-henrique/?trackingId=Rt9%2BsdMYSh2uhXNdv6nIxw%3D%3D)
-   2. [useMemo e useCallback quando usar?](https://www.linkedin.com/pulse/usecallback-e-usememo-quando-usar-luiz-henrique/)
+   
+   1. [Elevando Aplicações React com o Princípio SOLID de Single Responsibility](https://www.linkedin.com/pulse/elevando-aplica%25C3%25A7%25C3%25B5es-react-com-o-princ%25C3%25ADpio-solid-de-single-henrique/?trackingId=LKPnmgeDRteAQ6cAHntBWQ%3D%3D)
+   2. [Simplificando Aplicações React com Combine Context Provider Pattern](https://www.linkedin.com/pulse/simplificando-aplica%25C3%25A7%25C3%25B5es-react-com-combine-context-pattern-henrique/?trackingId=Rt9%2BsdMYSh2uhXNdv6nIxw%3D%3D)
+   3. [useMemo e useCallback quando usar?](https://www.linkedin.com/pulse/usecallback-e-usememo-quando-usar-luiz-henrique/)
 </div>
 
 <br/>
