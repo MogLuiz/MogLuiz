@@ -3,7 +3,7 @@
 <br/>
 
 <p align="left"> 
- 🖖 Hi there, my name's <strong>Luiz Henrique i'm 21 years old</strong>. I'm a <strong>Software Engineering student</strong> at Puc Minas and i work as a <strong>React developer analyst.</strong>
+ 🖖 Hi there, my name's <strong>Luiz Henrique i'm 22 years old</strong>. I'm a <strong>Software Engineering student</strong> at Puc Minas and i work as a <strong>Software Developer.</strong>
 </p>
 
 <br/>
